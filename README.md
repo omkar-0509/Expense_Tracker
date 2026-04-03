@@ -19,7 +19,7 @@ A **console-based Python application** to track daily expenses, generate reports
 - Pandas (for reporting and analysis)  
 - Datetime module (for handling dates)  
 
----
+--- 
 
 ## Project Structure
 - `expenses.db` – SQLite database file  
